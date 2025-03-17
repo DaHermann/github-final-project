@@ -10,3 +10,5 @@ Input:
 Output
 
       simple interest = p*t*r
+
+### personal change
